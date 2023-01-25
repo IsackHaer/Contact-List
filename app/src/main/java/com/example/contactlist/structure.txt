@@ -1,0 +1,10 @@
+Database - Datasource -> modul = Contact(name, number)
+layout - add button, text input field(names), numbers input field(numbers), recyclerView(contactList(Contact))
+Program the adapter
+connect the dots in MainActivity
+
+
+enable fragments features in android studio
+create nav_graph
+{ create fragment_layout -> design it(move elements from activity_main to fragment)
+create fragmentClass -> connect the dots, also connect the screens in nav_graph } redo if several fragments are needed
